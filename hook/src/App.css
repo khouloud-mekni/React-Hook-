@@ -1,0 +1,17 @@
+body{
+  background-image: url(https://wallpaperaccess.com/full/558678.jpg)!important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.App {
+  text-align: center;
+  color:white;
+}
+.info{
+  background-color: rgb(105, 9, 4);
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50%;
+
+}
